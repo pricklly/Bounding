@@ -1,0 +1,8 @@
+E:\Project\Bounrig\Bounrig\bin\Debug\Bounrig.exe.config
+E:\Project\Bounrig\Bounrig\bin\Debug\Bounrig.exe
+E:\Project\Bounrig\Bounrig\bin\Debug\Bounrig.pdb
+E:\Project\Bounrig\Bounrig\obj\Debug\Bounrig.csprojResolveAssemblyReference.cache
+E:\Project\Bounrig\Bounrig\obj\Debug\Bounrig.MainForm.resources
+E:\Project\Bounrig\Bounrig\obj\Debug\Bounrig.csproj.GenerateResource.Cache
+E:\Project\Bounrig\Bounrig\obj\Debug\Bounrig.exe
+E:\Project\Bounrig\Bounrig\obj\Debug\Bounrig.pdb
